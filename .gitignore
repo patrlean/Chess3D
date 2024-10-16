@@ -10,4 +10,7 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+<<<<<<< HEAD
 build/
+=======
+>>>>>>> ba57e78bbf0803ab414c7040357b6017857319bb
